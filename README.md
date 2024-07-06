@@ -1,3 +1,5 @@
+This is a website developed using React App beneficial for college students to register their complaints and faculty can search for their institutions, filter them and look upon the issues.
+It also supports the LIKE feature similar to current social media apps.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
